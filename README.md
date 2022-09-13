@@ -32,7 +32,8 @@
 # 导入
 
 ```sh
-implementation 'top.zibin:Luban:1.1.8'
+// gradle 7.1.2 编译
+implementation 'com.github.qiao236349845:myluban:1.0.0'
 ```
 
 # 使用
